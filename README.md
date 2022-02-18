@@ -1,4 +1,4 @@
-### Soy Natalia Jiménez, y soy Front-End Developer 👋
+### 👋 Soy Natalia Jiménez, y soy Front-End Developer 
 
 Llevo practicando karate toda mi vida. 🥋 Gracias a ello, he adquirido una serie de valores y capacidades que harán que ningún código se me resista 👊🏻. Tendré el tesón para no rendirme hasta solucionar el problema, la calma en momentos de caos, la clarividencia para idear cualquier recurso con el que consiga alcanzar la meta 🏁; pero también la armonía para trabajar en equipo y la determinación para alentar y guiar a mi equipo hasta conseguir el objetivo fijado 🤝.
 

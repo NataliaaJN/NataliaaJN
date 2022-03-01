@@ -6,7 +6,7 @@ Confía en mi filosofía, oss. 🙏🏻
 
 ## Proyectos ✏️
 - 🚀 [Bender - pure css](https://nataliaajn.github.io/bender-pure-css/)
-- 🚀 [Harry Potter searcher](https://nataliaajn.github.io/Harry-Potter-searcher/#/)
+- 🚀 [Harry Potter search engine](https://nataliaajn.github.io/Harry-Potter-searcher/#/)
 - 🚀 [AnimeNet - buscador de series anime](https://nataliaajn.github.io/AnimeNet/)
 - 🚀 [Juego piedra, papel o tijera](https://nataliaajn.github.io/piedra-papel-o-tijera/)
 - 🚀 [Juego del ahorcado](https://nataliaajn.github.io/hangman-game/#/)
